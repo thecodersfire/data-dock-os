@@ -24,3 +24,11 @@ The `data-dock.svg` wallpaper is original. Data Dock OS is an independent Ubuntu
 
 See [FEATURES.md](FEATURES.md) for three local tools included for database development.
 
+
+The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, org.kicad.KiCad**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, KiCad**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **DB Browser for SQLite, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **DB Browser for SQLite, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
